@@ -1,0 +1,50 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="growable" />
+      <item value="Snapshot" />
+      <item value="Box Constraints" />
+      <item value="size" />
+      <item value="color" />
+      <item value="text Direction" />
+      <item value="semantic Label" />
+      <item value="foreground Color" />
+      <item value="unselected Label Color" />
+      <item value="Edge Insets Geometry" />
+      <item value="primary Color Light" />
+      <item value="primary Color" />
+      <item value="tooltip" />
+      <item value="Scaffold" />
+      <item value="Box Decoration" />
+      <item value="symmetric" />
+      <item value="final" />
+      <item value="Example title" />
+      <item value="used by the OS task switcher" />
+      <item value="switcher" />
+      <item value="dynamic" />
+      <item value="My Home Page" />
+      <item value="Floating Action Button" />
+      <item value="headline 4" />
+      <item value="Main Axis Alignment" />
+      <item value="create State" />
+      <item value="Material App" />
+      <item value="primary Swatch" />
+      <item value="Build Context" />
+      <item value="floating Action Button" />
+      <item value="Stateful Widget" />
+      <item value="_My Home Page State" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1634801446202" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
