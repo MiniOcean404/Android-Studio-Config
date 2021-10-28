@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Should each log print contain a timestamp" />
+      <item value="Print an emoji for each log message" />
+      <item value="Colorful log messages" />
       <item value="growable" />
       <item value="Snapshot" />
       <item value="Box Constraints" />
@@ -36,13 +39,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634801446202" />
+    <option name="lastTrimTime" value="1635390263219" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
