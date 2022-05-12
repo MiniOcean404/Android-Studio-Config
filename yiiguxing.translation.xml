@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="barcodes" />
+      <item value="did Update Widget" />
       <item value="signing Configs" />
       <item value="evaluation Depends On" />
       <item value="subprojects" />
@@ -42,13 +44,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649078462354" />
+    <option name="lastTrimTime" value="1652282918024" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
