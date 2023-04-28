@@ -1,0 +1,13 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="contentvalue" />
+        <option value="ContentValues" />
+        <option value="执行" />
+        <option value="tag:memtrack" />
+      </list>
+    </option>
+  </component>
+</application>
