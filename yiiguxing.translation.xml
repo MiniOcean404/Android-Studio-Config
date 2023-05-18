@@ -66,6 +66,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="You have pushed the button this many times:" />
       <item value="report Request" />
       <item value="Flipper" />
       <item value="phased Registration Names" />
@@ -78,8 +79,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
