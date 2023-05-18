@@ -66,6 +66,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="from Seed" />
       <item value="subloc" />
       <item value="debug Log Diagnostics" />
       <item value="inverse Primary" />
@@ -82,8 +83,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
